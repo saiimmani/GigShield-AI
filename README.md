@@ -1,4 +1,4 @@
-# SaaS Dashboard
+# GigShield
 
 A modern, production-ready SaaS dashboard built with Next.js 16, TypeScript, and Tailwind CSS.
 
